@@ -1,0 +1,42 @@
+com.example.projeto.app-lifecycle-viewmodel-2.5.1-0 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\1410d2937433d30b3350e2e867734f59\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.projeto.app-core-ktx-1.9.0-1 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\14ab2d17b81a04825d40e2bc722d5457\transformed\core-ktx-1.9.0\res
+com.example.projeto.app-viewpager2-1.0.0-2 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\17ca4d955e726ca18618b8005f4f5574\transformed\viewpager2-1.0.0\res
+com.example.projeto.app-lifecycle-livedata-core-ktx-2.4.1-3 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\1a8ac0b0908c031cec21a807b5224d70\transformed\lifecycle-livedata-core-ktx-2.4.1\res
+com.example.projeto.app-play-services-basement-18.1.0-4 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\1b85e52a16b2910bb9f263a005b41935\transformed\play-services-basement-18.1.0\res
+com.example.projeto.app-material-1.8.0-5 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\270bd4bc5bd7500e0b7d582609e13ee2\transformed\material-1.8.0\res
+com.example.projeto.app-fragment-1.3.6-6 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\27d91fb54cf14802acbe8090dd4f6c91\transformed\fragment-1.3.6\res
+com.example.projeto.app-lifecycle-viewmodel-ktx-2.4.1-7 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\2a3a5eb03d90e1f7c881239233a0b644\transformed\lifecycle-viewmodel-ktx-2.4.1\res
+com.example.projeto.app-lifecycle-livedata-2.4.1-8 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\37a5471a12f93c1bb579ac4cc886209d\transformed\lifecycle-livedata-2.4.1\res
+com.example.projeto.app-lifecycle-runtime-2.5.1-9 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\389b23c7a83207bd3787f7b27543fb44\transformed\lifecycle-runtime-2.5.1\res
+com.example.projeto.app-firebase-common-20.3.2-10 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\4ab093495ec73bf0303b4e87af21b6db\transformed\firebase-common-20.3.2\res
+com.example.projeto.app-core-1.9.0-11 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\5343c53896619bdcaa0eb3013a1810d1\transformed\core-1.9.0\res
+com.example.projeto.app-play-services-base-18.1.0-12 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\597aff1a74c8ba274efb994a6574245c\transformed\play-services-base-18.1.0\res
+com.example.projeto.app-glide-4.12.0-13 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\5de162c907ea742fb272511232efc92d\transformed\glide-4.12.0\res
+com.example.projeto.app-transition-1.2.0-14 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\6b3f86c9e7df896f64aae1a6b5718952\transformed\transition-1.2.0\res
+com.example.projeto.app-lifecycle-viewmodel-savedstate-2.5.1-15 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\6c59bd2d47842a2bc530306de067664d\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.projeto.app-appcompat-resources-1.6.1-16 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\74e35b4ecfedce372329ca2caff29441\transformed\appcompat-resources-1.6.1\res
+com.example.projeto.app-annotation-experimental-1.3.0-17 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\771428b383066a65b02e8a6d3180f849\transformed\annotation-experimental-1.3.0\res
+com.example.projeto.app-lifecycle-livedata-core-2.5.1-18 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\793d827d24cf263694c9e35385b56eaa\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.projeto.app-recyclerview-1.1.0-19 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\7b91eabe84b607dd6ea8a689a0f48587\transformed\recyclerview-1.1.0\res
+com.example.projeto.app-appcompat-1.6.1-20 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\7da6f43310809f193642bcd432c58c1b\transformed\appcompat-1.6.1\res
+com.example.projeto.app-activity-1.6.0-21 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\8e303d01035de9eab02dcc2895bde797\transformed\activity-1.6.0\res
+com.example.projeto.app-cardview-1.0.0-22 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\9b74742880350db167990ca1637e002d\transformed\cardview-1.0.0\res
+com.example.projeto.app-notification-badge-1.0.4-23 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\a7176aca6b7f2b7947f18278d2c435d2\transformed\notification-badge-1.0.4\res
+com.example.projeto.app-constraintlayout-2.1.4-24 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\b9fec61b2957d6bfe8adb0d44572ddaf\transformed\constraintlayout-2.1.4\res
+com.example.projeto.app-lifecycle-process-2.4.1-25 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\bca37bf206c469be5afbc315333fb89a\transformed\lifecycle-process-2.4.1\res
+com.example.projeto.app-emoji2-1.2.0-26 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\bec68125f50d7f832f9179c410973ad1\transformed\emoji2-1.2.0\res
+com.example.projeto.app-coordinatorlayout-1.1.0-27 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\c514175fc449a78ef8a27d19086a6fb3\transformed\coordinatorlayout-1.1.0\res
+com.example.projeto.app-savedstate-1.2.0-28 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\cc373a37a2e762afb99bc731c9e9ee87\transformed\savedstate-1.2.0\res
+com.example.projeto.app-startup-runtime-1.1.1-29 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\e2134f0cdb2974fc108a739d8c509b79\transformed\startup-runtime-1.1.1\res
+com.example.projeto.app-drawerlayout-1.1.1-30 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\ee70800001431b4b9d164ca9ce11ce4d\transformed\drawerlayout-1.1.1\res
+com.example.projeto.app-emoji2-views-helper-1.2.0-31 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\f484b0cfd2eac1fcf334082178e4c3ca\transformed\emoji2-views-helper-1.2.0\res
+com.example.projeto.app-lifecycle-livedata-ktx-2.4.1-32 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\f49eb645111f248312d4ff2413c7236a\transformed\lifecycle-livedata-ktx-2.4.1\res
+com.example.projeto.app-browser-1.4.0-33 E:\Projetos android studio\BancoSqlite\.gradle\8.1.1\caches\transforms-3\f7bf6196e655517c39204f2cab1d8f36\transformed\browser-1.4.0\res
+com.example.projeto.app-google-services-34 E:\Projetos backup\Projeto2\app\build\generated\res\google-services\debug
+com.example.projeto.app-pngs-35 E:\Projetos backup\Projeto2\app\build\generated\res\pngs\debug
+com.example.projeto.app-resValues-36 E:\Projetos backup\Projeto2\app\build\generated\res\resValues\debug
+com.example.projeto.app-packageDebugResources-37 E:\Projetos backup\Projeto2\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.projeto.app-packageDebugResources-38 E:\Projetos backup\Projeto2\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.projeto.app-merged_res-39 E:\Projetos backup\Projeto2\app\build\intermediates\merged_res\debug
+com.example.projeto.app-debug-40 E:\Projetos backup\Projeto2\app\src\debug\res
+com.example.projeto.app-main-41 E:\Projetos backup\Projeto2\app\src\main\res

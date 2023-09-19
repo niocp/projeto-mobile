@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_produto3.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_produto3.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_novo_menu.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_novo_menu.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_produto.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_produto.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_meu_perfil.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_meu_perfil.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_catalogo.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_catalogo.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_produto4.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_produto4.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/listitem.xml",
+        "source": "com.example.projeto.app-main-41:/layout/listitem.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_tela_de_cadastro.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_tela_de_cadastro.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_summary.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_summary.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_produto2.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_produto2.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_carrinho.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_carrinho.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_info.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_info.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_efetuar_compra.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_efetuar_compra.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/activity_menu_principal.xml",
+        "source": "com.example.projeto.app-main-41:/layout/activity_menu_principal.xml"
+    },
+    {
+        "merged": "com.example.projeto.app-mergeDebugResources-38:/layout/cartlist.xml",
+        "source": "com.example.projeto.app-main-41:/layout/cartlist.xml"
+    }
+]

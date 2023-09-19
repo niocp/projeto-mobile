@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Projeto"
+        tools:targetApi="31">
+        <activity
+            android:name=".SummaryActivity"
+            android:exported="false" />
+        <activity
+            android:name=".InfoActivity"
+            android:exported="false" />
+        <activity
+            android:name=".novoMenu"
+            android:exported="true"
+            tools:ignore="DuplicateActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Produto4"
+            android:exported="false" />
+        <activity
+            android:name=".Produto3"
+            android:exported="false" />
+        <activity
+            android:name=".Produto2"
+            android:exported="false" />
+        <activity
+            android:name=".EfetuarCompra"
+            android:exported="false" />
+        <activity
+            android:name=".Carrinho"
+            android:exported="false" />
+        <activity
+            android:name=".TelaDeCadastro"
+            android:exported="false" />
+        <activity
+            android:name=".MeuPerfil"
+            android:exported="false" />
+        <activity
+            android:name=".Produto"
+            android:exported="false" />
+        <activity
+            android:name=".Catalogo"
+            android:exported="false" />
+        <activity
+            android:name=".MenuPrincipal"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <provider
+            android:authorities="com.example.projeto"
+            android:name=".Database.OrderProvider"
+            android:exported="true"/>
+
+
+    </application>
+
+</manifest>
